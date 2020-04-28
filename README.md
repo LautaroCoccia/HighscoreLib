@@ -8,4 +8,4 @@
  
  * UpdateValues: permite ingresar un nuevo nombre puntaje en la lista con un nombre y estos serán acomodados automaticamente en la lista de puntuaciones.
  
- * PrintHighscores: imprime todos los valores de la tabla de puntuaciones de menor a mayor.
+ * PrintHighscores: imprime todos los valores de la tabla de puntuaciones de mayor a menor.
